@@ -10,4 +10,4 @@
 
   -- 📧 svetlana.besedina01@gmail.com
 
-  -- 🤝 в телеграме https://t.me/SBesedina
+  -- 🤝 https://t.me/SBesedina
